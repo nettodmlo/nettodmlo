@@ -7,12 +7,12 @@
 
 ![Antônio GitHub stats](https://github-readme-stats.vercel.app/api?username=nettodmlo&show_icons=true&theme=dracula)
 
-### Tecnologias que uso e estudo no dia-a-dia
+### Technologies I use and study in my daily life
 
 <div style= "display: inline_block"><br/>
  <img align= "center" src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align= "center" src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  
 </div><br/>
 
-Recém iniciado na área de programação buscando seguir o sonho de sua vida, viver da tecnologia!
+Recently started in the programming field, aiming to pursue the dream of your life, to make a living from technology!
 
