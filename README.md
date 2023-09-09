@@ -5,12 +5,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/ant%C3%B4nio-ven%C3%A2ncio-0b5522270/)
 
-![Antônio GitHub stats](https://github-readme-stats.vercel.app/api?username=nettoomlo&show_icons=true&theme=dracula)
+![Antônio GitHub stats](https://github-readme-stats.vercel.app/api?username=nettodmlo&show_icons=true&theme=dracula)
 
 ### Tecnologias que uso e estudo no dia-a-dia
 
 <div style= "display: inline_block"><br/>
- <img align= "center" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+ <img align= "center" src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align= "center" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
 </div><br/>
 
